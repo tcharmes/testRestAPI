@@ -5,7 +5,8 @@
       "nom": "Rulli",
       "prenom": "Géronimo",
       "club": "MHSC",
-      "poste": "gardien"
+      "poste": "gardien",
+      "id": 10001
     },
     {
       "numero": 4,
