@@ -1,6 +1,7 @@
 {
   "joueurs": [
     {
+      "id": 001,
       "numero": 1,
       "nom": "Rulli",
       "prenom": "Géronimo",
@@ -8,6 +9,7 @@
       "poste": "gardien"
     },
     {
+      "id": 002,
       "numero": 4,
       "nom": "Hilton",
       "prenom": "Vitorino",
@@ -15,6 +17,7 @@
       "poste": "défenseur"
     },
     {
+      "id": 003,
       "numero": 10,
       "nom": "Laborde",
       "prenom": "Gaëtan",
@@ -22,6 +25,7 @@
       "poste": "attaquant"
     },
     {
+      "id": 004,
       "numero": 10,
       "nom": "Messi",
       "prenom": "Lionel",
