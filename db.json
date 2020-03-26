@@ -6,21 +6,21 @@
       "prenom": "Géronimo",
       "club": "MHSC",
       "poste": "gardien"
-    }
+    },
     {
       "numero": 4,
       "nom": "Hilton",
       "prenom": "Vitorino",
       "club": "MHSC",
       "poste": "défenseur"
-    }
+    },
     {
       "numero": 10,
       "nom": "Laborde",
       "prenom": "Gaëtan",
       "club": "MHSC",
       "poste": "attaquant"
-    }
+    },
     {
       "numero": 10,
       "nom": "Messi",
@@ -34,7 +34,7 @@
     "nom": "Stade de la Mosson",
     "lieu": "Montpellier",
     "capacité": "32500"
-    }
+    },
     {
     "nom": "Camp Nou",
     "lieu": "Barcelone",
