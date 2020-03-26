@@ -28,17 +28,5 @@
       "club": "FC Barcelone",
       "poste": "attaquant"
     }
-  ],
-  "stades": [
-    {
-    "nom": "Stade de la Mosson",
-    "lieu": "Montpellier",
-    "capacité": "32500"
-    },
-    {
-    "nom": "Camp Nou",
-    "lieu": "Barcelone",
-    "capacité": "99500"
-    }
   ]
 }
