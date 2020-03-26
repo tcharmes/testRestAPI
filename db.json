@@ -6,7 +6,7 @@
       "prenom": "Géronimo",
       "club": "MHSC",
       "poste": "gardien",
-      "id": 10001
+      "identifiant": 10001
     },
     {
       "numero": 4,
@@ -14,21 +14,23 @@
       "prenom": "Vitorino",
       "club": "MHSC",
       "poste": "défenseur",
-      "id": 10002
+      "identifiant": 10002
     },
     {
       "numero": 10,
       "nom": "Laborde",
       "prenom": "Gaëtan",
       "club": "MHSC",
-      "poste": "attaquant"
+      "poste": "attaquant",
+      "identifiant": 10003
     },
     {
       "numero": 10,
       "nom": "Messi",
       "prenom": "Lionel",
       "club": "FC Barcelone",
-      "poste": "attaquant"
+      "poste": "attaquant",
+      "identifiant": 10004
     }
   ]
 }
